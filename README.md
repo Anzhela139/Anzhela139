@@ -21,8 +21,6 @@ My work experience is about a year in freelancing.
 
 📫 How to reach me: abitovaanzela@gmail.com.
 
-My main goal is to become a successful web-developer. Now I engage in web-design. But I find coding much more fascinating and reliable. I have to admit my lack of actual experience. All projects I did contribute were training. But I do learn fast, especially when I'm inspired. And I'm inspired to learn coding.
-
 ## Languages 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
