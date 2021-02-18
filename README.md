@@ -38,6 +38,7 @@ My work experience is about a year in freelancing.
 
 ## Portfolio
 - [My design portfolio](https://www.behance.net/abitovaanz3261);
+- [Shelter layout](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/shelter/pages/main-page/index.html);
 - [Momentum clone](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/momentum/);
 - [Virtual keyboard](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/virtual-keyboard/);
 - [Air-dashboard](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/air-dashboard/);
