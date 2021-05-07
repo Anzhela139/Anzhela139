@@ -4,9 +4,9 @@ I can make up landing-page, multi-page and business card sites. Also can make an
 My work experience is about a year in freelancing.
 
 ## Skills: 
-- HTML5, CSS3, JavaScript;
+- HTML5, CSS3, JavaScript, PHP, React, Node.js, Express.js, MongoDB, etc;
 - work with vanilla JS, jQuery;
--strictly according to the layout;
+- strictly according to the layout;
 - code in BEM;
 - animation of different complexity;
 - OOP, interested in functional programming;
@@ -40,8 +40,12 @@ My work experience is about a year in freelancing.
 - [My design portfolio](https://www.behance.net/abitovaanz3261);
 - [Shelter layout](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/shelter/pages/main-page/index.html);
 - [Momentum clone](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/momentum/);
+- [Calculator](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/calculator/);
 - [Virtual keyboard](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/virtual-keyboard/);
 - [Air-dashboard](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/air-dashboard/);
 - [English for kids](https://rolling-scopes-school.github.io/anzhelaabitova-JS2020Q3/english-for-kids/);
+- [Tic tac toe - on react](https://anzhelaabitova-react-game.netlify.app/);
+- [Travel app - on react](https://rs-travel-app.netlify.app);
+- [Learning english app - on react](https://happy-johnson-cd47ab.netlify.app/welcome);
 - [Commercial project](https://guarant-pro.ru/);
 - [My site portfolio](https://anzhelaabitova.github.io/portfolio/).
