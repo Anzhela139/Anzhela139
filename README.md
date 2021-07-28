@@ -34,7 +34,7 @@ My work experience is about a year in freelancing.
 - HTMLAcademy;
 - Codecademy;
 - Codewars;
-- RsSchool;
+- Rolling Scope School (certificate  react — https://app.rs.school/certificate/o6qvgcws, certificate JavaScript — https://app.rs.school/certificate/wahh4x4g).
 
 ## Portfolio
 - [My design portfolio](https://www.behance.net/abitovaanz3261);
@@ -47,5 +47,4 @@ My work experience is about a year in freelancing.
 - [Tic tac toe - on react](https://anzhelaabitova-react-game.netlify.app/);
 - [Travel app - on react](https://rs-travel-app.netlify.app);
 - [Learning english app - on react](https://happy-johnson-cd47ab.netlify.app/welcome);
-- [Commercial project](https://guarant-pro.ru/);
 - [My site portfolio](https://anzhelaabitova.github.io/portfolio/).
