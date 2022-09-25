@@ -34,7 +34,6 @@ My work experience is about a year and half in freelancing.
 - HTMLAcademy;
 - Codecademy;
 - Codewars;
-- Rolling Scope School (certificate  react — https://app.rs.school/certificate/o6qvgcws, certificate JavaScript — https://app.rs.school/certificate/wahh4x4g).
 
 ## Portfolio
 - [My design portfolio](https://www.behance.net/abitovaanz3261);
