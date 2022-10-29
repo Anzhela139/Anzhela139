@@ -37,8 +37,8 @@ My work experience is about a 2 years and 8 months in freelancing and  corporate
 
 ## Portfolio
 - [My design portfolio](https://www.behance.net/abitovaanz3261);
-- [Tic tac toe - on react](https://anzhelaabitova-react-game.netlify.app/);
-- [Travel app - on react](https://rs-travel-app.netlify.app);
-- [Learning english app - on react](https://happy-johnson-cd47ab.netlify.app/welcome);
-- [My site portfolio](https://anzhelaabitova.github.io/portfolio/).
-- App english-for-kids [code](https://github.com/anzhelaAbitova/english-for-kids). [demo](https://anzhelaabitova.github.io/portfolio/).
+- Tic tac toe - on react [code](https://github.com/anzhelaAbitova/react-game), [demo](https://anzhelaabitova-react-game.netlify.app/);
+- Travel app - on react [code](https://github.com/Mobidikt/travel-app), [demo](https://rs-travel-app.netlify.app);
+- Learning english app - on react [code](https://github.com/Mobidikt/rslang), [demo](https://happy-johnson-cd47ab.netlify.app/welcome);
+- My site portfolio [code](https://github.com/anzhelaAbitova/portfolio), [demo](https://anzhelaabitova.github.io/portfolio/).
+- App english-for-kids [code](https://github.com/anzhelaAbitova/english-for-kids), [demo](https://anzhelaabitova.github.io/portfolio/).
