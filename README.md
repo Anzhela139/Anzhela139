@@ -42,3 +42,4 @@ My work experience is about a 2 years and 8 months in freelancing and  corporate
 - Learning english app - on react [code](https://github.com/Mobidikt/rslang), [demo](https://happy-johnson-cd47ab.netlify.app/welcome);
 - My site portfolio [code](https://github.com/anzhelaAbitova/portfolio), [demo](https://anzhelaabitova.github.io/portfolio/).
 - App english-for-kids [code](https://github.com/anzhelaAbitova/english-for-kids), [demo](https://anzhelaabitova.github.io/portfolio/).
+- App air-dashboard [code](https://github.com/anzhelaAbitova/air-dashboard), [demo](https://anzhelaabitova.github.io/air-dashboard/).
