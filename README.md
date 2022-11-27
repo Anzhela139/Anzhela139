@@ -1,4 +1,4 @@
-# Hello! I am a web designer and web developer.
+# Hello! I am a web developer and web designer.
 
 I can make up landing-page, multi-page and business card sites. Also can make animations, customize forms, bind Google, Yandex Analytics. I develop the design of websites (including mobile applications), corporate sites, design for social networks. I also make animated videos.
 My work experience is about a 2 years and 8 months in freelancing and  corporate working.
@@ -38,6 +38,7 @@ My work experience is about a 2 years and 8 months in freelancing and  corporate
 ## Portfolio
 ###### Sorting from simple to more difficult
 - [My design portfolio](https://www.behance.net/abitovaanz3261);
+- Shelter [code](https://github.com/anzhelaAbitova/shelter), [demo](https://anzhelaabitova.github.io/shelter/).
 - Momentum clone [code](https://github.com/anzhelaAbitova/momentum), [demo](https://anzhelaabitova.github.io/momentum/).
 - My site portfolio [code](https://github.com/anzhelaAbitova/portfolio), [demo](https://anzhelaabitova.github.io/portfolio/).
 - Tic tac toe - on react [code](https://github.com/anzhelaAbitova/react-game), [demo](https://anzhelaabitova-react-game.netlify.app/);
