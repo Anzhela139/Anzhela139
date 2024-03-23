@@ -1,7 +1,7 @@
 # Hello! I am a web developer and web designer.
 
 I can make up landing-page, multi-page and business card sites. Also can make animations, customize forms, bind Google, Yandex Analytics. I develop the design of websites (including mobile applications), corporate sites, design for social networks. I also make animated videos.
-My work experience is about a 2 years and 8 months in freelancing and  corporate working.
+My work experience is about a 4 years and 2 months in freelancing and  corporate working.
 
 ## Skills: 
 - HTML5, CSS3, JavaScript, Vue, Django, React, PHP, Node.js, Express.js, MongoDB, etc;
