@@ -19,8 +19,6 @@ My work experience is about a 4 years and 2 months in freelancing and  corporate
 - Adobe After Effects;
 - Figma.
 
-📫 How to reach me: abitovaanzela@gmail.com.
-
 ## Languages 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
 
@@ -37,6 +35,7 @@ My work experience is about a 4 years and 2 months in freelancing and  corporate
 - Codewars;
 
 ## Portfolio
+📫 How to reach me: abitovaanzela@gmail.com https://t.me/anzheladev
 ###### Sorting from simple to more difficult
 - [My design portfolio](https://www.behance.net/anzhela139);
 - Shelter [code](https://github.com/Anzhela139/shelter), [demo](https://Anzhela139.github.io/shelter/).
