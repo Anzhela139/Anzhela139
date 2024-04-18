@@ -38,7 +38,6 @@ My work experience is about a 4 years and 2 months in freelancing and  corporate
 📫 How to reach me: abitovaanzela@gmail.com https://t.me/anzheladev
 ###### Sorting from simple to more difficult
 - [My design portfolio](https://www.behance.net/anzhela139);
-- Shelter [code](https://github.com/Anzhela139/shelter), [demo](https://Anzhela139.github.io/shelter/).
 - Momentum clone [code](https://github.com/Anzhela139/momentum), [demo](https://Anzhela139.github.io/momentum/).
 - My site portfolio [code](https://github.com/Anzhela139/portfolio), [demo](https://Anzhela139.github.io/portfolio/).
 - Tic tac toe - on react [code](https://github.com/Anzhela139/react-game), [demo](https://anzhela139-tic-tac-react-game.netlify.app/);
