@@ -40,7 +40,7 @@ My work experience is about a 4 years and 2 months in freelancing and  corporate
 - [My design portfolio](https://www.behance.net/anzhela139);
 - Momentum clone [code](https://github.com/Anzhela139/momentum), [demo](https://Anzhela139.github.io/momentum/).
 - My site portfolio [code](https://github.com/Anzhela139/portfolio), [demo](https://Anzhela139.github.io/portfolio/).
-- Tic tac toe - on react [code](https://github.com/Anzhela139/react-game), [demo](https://anzhela139-tic-tac-react-game.netlify.app/);
+- Tic tac toe - on vue [code](https://github.com/Anzhela139/Tic-tac-toe), [demo](https://anzhela139-tic-tac-vue-game.netlify.app/);
 - App english-for-kids [code](https://github.com/Anzhela139/english-for-kids), [demo](https://Anzhela139.github.io/portfolio/).
 - App air-dashboard [code](https://github.com/Anzhela139/air-dashboard), [demo](https://Anzhela139.github.io/air-dashboard/).
 - Travel app - on react [code](https://github.com/Mobidikt/travel-app), [demo](https://rs-travel-app.netlify.app);
